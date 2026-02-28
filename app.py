@@ -19,7 +19,7 @@ from db.seed_users import seed_users
 
 seed_users()
 # log
-from log.user_activity_view import view_my_activity
+#from log.user_activity_view import view_my_activity
 
 # ==== MODULE NGHIỆP VỤ ====
 from module.error_utils import run_with_user_error
