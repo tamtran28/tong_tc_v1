@@ -15,7 +15,7 @@ from db.auth_jwt import is_authenticated, get_current_user
 from db.security import require_role
 
 from db.seed_users import seed_users
-from db.change_pw import change_password_popup
+#from db.change_pw import change_password_popup
 
 seed_users()
 # log
